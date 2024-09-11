@@ -50,25 +50,25 @@ pdf.add_page()
 pdf.titulo_base('Análise dos dados')
 
 pdf.paragrafo('A partir da análise inicial, nota-se uma disparidade significativa na distribuição de vagas disponíveis entre as diferentes regiões do país, com uma concentração maior nas áreas de maior desenvolvimento econômico. Isso resulta em um investimento mais robusto na educação, tanto por instituições privadas quanto públicas.')
-pdf.imagem('Gráfico_Vagas_Regiao.png', 30, 105, 150)
+pdf.imagem('Gráfico_Vagas_Regiao.png', 10, 105, 200)
 
 # pág 3
 pdf.add_page()
 
 pdf.paragrafo('A educação à distância tem mostrado uma clara predominância no número de vagas, especialmente após a pandemia. Essa modalidade se tornou a escolha preferida da população devido à sua maior flexibilidade de horários e, em geral, por ser mais acessível para pessoas de baixa renda, já que elimina custos adicionais, como transporte.')
-pdf.imagem('Gráfico_Modalidades.png', 30, 105, 150)
+pdf.imagem('Gráfico_Modalidades.png', 10, 105, 200)
 
 # pág 4
 pdf.add_page()
 
 pdf.paragrafo('Podemos observar que a maioria da população opta por ingressar em instituições privadas, com ou sem fins lucrativos. Isso ocorre principalmente devido à alta concorrência por vagas em instituições públicas, o que diminui consideravelmente as chances de ingresso. Muitas pessoas, especialmente aquelas que precisam trabalhar para se sustentar ou apoiar suas famílias, não conseguem dedicar tempo suficiente aos estudos para competir por vagas tão disputadas.')
-pdf.imagem('Gráfico_Cat_Admin.png', 30, 105, 150)
+pdf.imagem('Gráfico_Cat_Admin.png', 5, 105, 200)
 
 # pág 5
 pdf.add_page()
  
 pdf.paragrafo('Por fim, um aspecto interessante destacado neste estudo é a preferência pelos cursos de grau Tecnólogo. Essa escolha parece estar relacionada à necessidade de a maior parte da população ingressar rapidamente no mercado de trabalho, uma vez que esses cursos, com duração média de 2 a 3 anos, oferecem essa possibilidade.')
-pdf.imagem('Gráfico_Graus_Ensino.png', 30, 105, 150)
+pdf.imagem('Gráfico_Graus_Ensino.png', 0, 105, 210)
 
 # pág 6
 pdf.add_page()
