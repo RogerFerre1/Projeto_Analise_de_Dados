@@ -61,7 +61,7 @@ Educacao_Desigualdade/
 
 O projeto conta com um **relatório completo em PDF**, contendo introdução, análise dos dados, gráficos interpretativos e conclusão.
 
-📄 [Acesse o relatório final](./relatorio/relatorio.pdf)
+📄 [Acesse o relatório final](relatorio.pdf)
 
 ---
 
