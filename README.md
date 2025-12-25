@@ -4,8 +4,6 @@
 
 </div>
 
-![Educação](image.png)
-
 ---
 
 ## 📌 Sobre o Projeto
